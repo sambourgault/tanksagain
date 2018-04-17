@@ -4,8 +4,8 @@
 
 ## Basic factsheet
 - Developer: Sam Bourgault
-- Website:
-- Code Repository:
+- Website: https://farwest1138.itch.io/tanks-again
+- Code Repository: https://github.com/sambourgault/cart415/tree/master/tanks2
 - Release Date: April 17th, 2018
 - Available Platforms: Mac & PC
 - Price: 0.00$
@@ -38,10 +38,23 @@ Knowledge on individuals and masses emerge from the study of their environmental
 ## Videos: at least one of: a short trailer for the game or a gameplay video (ideally both)
 
 ## Screenshots
-![](Images/img1)
+![](https://github.com/sambourgault/tanksagain/blob/master/Images/img1.png)
+![](https://github.com/sambourgault/tanksagain/blob/master/Images/img2.png)
+![](https://github.com/sambourgault/tanksagain/blob/master/Images/img3.png)
+![](https://github.com/sambourgault/tanksagain/blob/master/Images/img4.png)
+![](https://github.com/sambourgault/tanksagain/blob/master/Images/img5.png)
+![](https://github.com/sambourgault/tanksagain/blob/master/Images/img6.png)
+![](https://github.com/sambourgault/tanksagain/blob/master/Images/img7.png)
+![](https://github.com/sambourgault/tanksagain/blob/master/Images/img8.png)
+![](https://github.com/sambourgault/tanksagain/blob/master/Images/img9.png)
+![](https://github.com/sambourgault/tanksagain/blob/master/Images/img10.png)
+![](https://github.com/sambourgault/tanksagain/blob/master/Images/img11.png)
+![](https://github.com/sambourgault/tanksagain/blob/master/Images/img12.png)
+![](https://github.com/sambourgault/tanksagain/blob/master/Images/img13.png)
 
 
-## Additional links: provide links to key references that will help the reader understand your games better
+## Additional links
+- [Process journal](https://github.com/sambourgault/cart415)
 
 
 ## About the developer
