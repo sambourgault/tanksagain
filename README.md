@@ -16,6 +16,8 @@ They look like toys but they shoot bullets like machine guns. They look armless 
 
 Knowledge on individuals and masses emerge from the study of their environmental context. Therefore through camera, light, sound and object, this experimentation strive to understand better the tank entity as a being of the virtual world.
 
+* Controls for this game are WASD, space bar and the mouse.
+
 
 ## History
 
@@ -31,12 +33,14 @@ Knowledge on individuals and masses emerge from the study of their environmental
 ## Features
 - tanks of course
 - solitude/individuality
-- masses/groups
+- mass/groups
 - voices
+- cult
 - words
 
 ## Videos
-[![Trailer](https://img.vimeo.com/265254556/0.jpg)](https://vimeo.com/265254556)
+- [Trailer](https://vimeo.com/265254556)
+- [Gameplay]()
 
 
 ## Screenshots
@@ -72,6 +76,13 @@ Sam Bourgault is currently doing her degree in Computation Arts at Concordia Uni
 - [Carlos Vaquero](https://freesound.org/people/Carlos_Vaquero/) from freesound.org
 - Christoph Peters et al., Unity Technologies: the original tutorial
 
+The images in the last part of the game have been taken from Wikimedia Commons. All the information about them can be found on their respective link:
+
+- [Justin Trudeau](https://commons.wikimedia.org/wiki/File:Justin_Trudeau_June_2016.jpg)
+- [Tank in Syria](https://upload.wikimedia.org/wikipedia/commons/a/a2/Azaz%2C_Syria.jpg)
+- [Crimean Crisis](https://commons.wikimedia.org/wiki/File:Crimean_crisis_IMG_8807_(13285092744).jpg)
+- [War in Syria](https://commons.wikimedia.org/wiki/File:Wounded_civilians_arrive_at_hospital_Aleppo.jpg)
+- [Refugees](https://commons.wikimedia.org/wiki/File:20151030_Syrians_and_Iraq_refugees_arrive_at_Skala_Sykamias_Lesvos_Greece_2.jpg)
 
 
 ## Contact
