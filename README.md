@@ -1,6 +1,6 @@
 # *Tanks! again...* Press Kit
 
-[Play Here to Tanks! again...]()
+[Play Here to Tanks! again...](https://farwest1138.itch.io/tanks-again)
 
 ## Basic factsheet
 - Developer: Sam Bourgault
@@ -35,7 +35,9 @@ Knowledge on individuals and masses emerge from the study of their environmental
 - voices
 - words
 
-## Videos: at least one of: a short trailer for the game or a gameplay video (ideally both)
+## Videos
+[![Trailer](https://img.vimeo.com/265254556/0.jpg)](https://vimeo.com/265254556)
+
 
 ## Screenshots
 ![](https://github.com/sambourgault/tanksagain/blob/master/Images/img1.png)
@@ -55,6 +57,7 @@ Knowledge on individuals and masses emerge from the study of their environmental
 
 ## Additional links
 - [Process journal](https://github.com/sambourgault/cart415)
+- The "instruction' part can be understood better by watching [this piece]() by Brian Eno and [this one]() by Philip Glass
 
 
 ## About the developer
@@ -66,6 +69,9 @@ Sam Bourgault is currently doing her degree in Computation Arts at Concordia Uni
 
 - Sam Bourgault: (almost) everything
 - Media: Some pictures from international news
+- [Carlos Vaquero](https://freesound.org/people/Carlos_Vaquero/) from freesound.org
+- Christoph Peters et al., Unity Technologies: the original tutorial
+
 
 
 ## Contact
