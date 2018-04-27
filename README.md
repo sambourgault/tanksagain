@@ -16,7 +16,7 @@ They look like toys but they shoot bullets like machine guns. They look armless 
 
 Knowledge on individuals and masses emerge from the study of their environmental context. Therefore through camera, light, sound and object, this experimentation strive to understand better the tank entity as a being of the virtual world.
 
-* Controls for this game are WASD, space bar and the mouse.
+* Controls for this game are WASD, space bar and the mouse. Esc to go back to menu.
 
 
 ## History
@@ -61,7 +61,7 @@ Knowledge on individuals and masses emerge from the study of their environmental
 
 ## Additional links
 - [Process journal](https://github.com/sambourgault/cart415)
-- The "instruction' part can be understood better by watching [this piece]() by Brian Eno and [this one]() by Philip Glass
+- The "instruction" part of the final game can be understood better by understanding the process of [Music for Airport](https://teropa.info/loop/#/title) by Brian Eno and listening to [Einstein on the Beach](https://www.youtube.com/watch?v=Ty76wEPL-M4) by Philip Glass.
 
 
 ## About the developer
